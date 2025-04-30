@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "Harsh",
+        "Age": "24",
+        "City": "Jhansi"
+    },
+    {
+        "Name": "Atif",
+        "City": "Mahobha",
+        "Age": "45"
+    },
+    {
+        "Name": "Prohit",
+        "Age": "89",
+        "City": "Lahore"
+    },
+    {
+        "Name": "Shubhi",
+        "Age": "12",
+        "City": "Allahbad"
+    },
+    {
+        "Name": "Manu",
+        "Age": "90",
+        "City": "Knowhere"
+    },
+    {
+        "Name": "Aanya",
+        "Age": "31",
+        "City": "Pune"
+    },
+    {
+        "Name": "Rohan",
+        "Age": "27",
+        "City": "Delhi"
+    },
+    {
+        "Name": "Zoya",
+        "Age": "36",
+        "City": "Mumbai"
+    },
+    {
+        "Name": "Imran",
+        "Age": "52",
+        "City": "Hyderabad"
+    },
+    {
+        "Name": "Kiara",
+        "Age": "19",
+        "City": "Bangalore"
+    }
+]
